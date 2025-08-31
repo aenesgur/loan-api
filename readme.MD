@@ -12,7 +12,7 @@ The application is built on a layered architecture with a clear separation of co
 
 
 ## Database Schema
-<img width="712" height="637" alt="Image" src="https://github.com/user-attachments/assets/35ecd086-d8c7-46d7-b4a7-9558b7370e54" />
+![Logo](src/main/resources/static/images/db-diagram.png)
 
 ## How to Start
 First, you need to build the Docker image for the Spring Boot application. Navigate to the project's root directory (where the Dockerfile and docker-compose.yml are located) and run the following command:
